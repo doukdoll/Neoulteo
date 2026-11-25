@@ -1,0 +1,118 @@
+{"id": "sem-001", "set": "semantic", "query": "하수처리 시설이었다가 식물원과 쉼터로 변신한 근린공원", "relevant": [2773291], "difficulty": "hard", "target_title": "일원에코파크"}
+{"id": "sem-002", "set": "semantic", "query": "대한제국 군대 해산 날 일본군과 싸우다 자결한 참위를 기리는 표지석", "relevant": [2373364], "difficulty": "hard", "target_title": "이충순 자결 터"}
+{"id": "sem-003", "set": "semantic", "query": "삼성동 무역센터 일대 대형 LED 전광판 미디어아트 볼 수 있는 곳", "relevant": [2456536], "difficulty": "medium", "target_title": "강남 마이스 관광특구"}
+{"id": "sem-004", "set": "semantic", "query": "서촌에서 세계 각국 차를 시음하고 수업도 듣는 곳", "relevant": [2969267], "difficulty": "medium", "target_title": "호전다실"}
+{"id": "sem-005", "set": "semantic", "query": "영종도에서 경운기 마차 타고 나가 조개 캐는 체험 어디야?", "relevant": [3074715], "difficulty": "medium", "target_title": "마시안갯벌체험장"}
+{"id": "sem-006", "set": "semantic", "query": "신정동 빗물 저장 시설 위에 만든 인조잔디 구장 추천해줘", "relevant": [2751345], "difficulty": "medium", "target_title": "양천해누리체육공원"}
+{"id": "sem-007", "set": "semantic", "query": "전주 한옥마을에서 출발해 제주와 홍대까지 지점 낸 전통 의상 대여점", "relevant": [2390314, 3056624], "difficulty": "hard", "target_title": "한복남"}
+{"id": "sem-008", "set": "semantic", "query": "남영동 제과회사 본사 지하 4~8세 실내놀이터 과자집 만들기", "relevant": [2451912], "difficulty": "medium", "target_title": "크라운해태 키즈뮤지엄"}
+{"id": "sem-009", "set": "semantic", "query": "북한산 자락 강북구 신라 말 고승이 창건한 절, 전직 대통령 영정 모신 곳", "relevant": [126502], "difficulty": "medium", "target_title": "도선사(서울)"}
+{"id": "sem-010", "set": "semantic", "query": "소설 원작 단편 애니메이션 만드는 스튜디오 견학 가능한 곳", "relevant": [2553888], "difficulty": "hard", "target_title": "연필로 명상하기"}
+{"id": "sem-011", "set": "semantic", "query": "강화도에 있는 한옥 모습의 서양식 교회 배 모양 터 1900년 건립", "relevant": [128819], "difficulty": "medium", "target_title": "대한성공회 강화성당"}
+{"id": "sem-012", "set": "semantic", "query": "인조반정 모의하던 이들이 칼을 씻었다는 종로구 북악 아래 정자", "relevant": [126494], "difficulty": "medium", "target_title": "세검정 터 (구 세검정)"}
+{"id": "sem-013", "set": "semantic", "query": "성북동에서 LP 12만 장과 진공관 앰프로 음악 듣는 감상 공간", "relevant": [3027054], "difficulty": "medium", "target_title": "리홀뮤직갤러리"}
+{"id": "sem-014", "set": "semantic", "query": "오대산 월정사의 서울 포교당인 탑 모양 5층 절", "relevant": [2759967], "difficulty": "hard", "target_title": "법종사"}
+{"id": "sem-015", "set": "semantic", "query": "동묘앞역 근처 낙산 동쪽 법화 신앙 사찰 템플스테이 가능한 곳", "relevant": [128872], "difficulty": "medium", "target_title": "묘각사(서울)"}
+{"id": "sem-016", "set": "semantic", "query": "강화도 고려산 옆 봉우리에서 서해 해넘이 보는 국내 3대 명소", "relevant": [2765235], "difficulty": "medium", "target_title": "적석사 낙조대"}
+{"id": "sem-017", "set": "semantic", "query": "가회동 한옥에서 우리 차 세 가지와 디저트 페어링 즐기기", "relevant": [2992824], "difficulty": "medium", "target_title": "락고재 컬쳐 라운지 애가헌"}
+{"id": "sem-018", "set": "semantic", "query": "폐위된 조선 10대 왕 묘, 앞에 보호수 은행나무 있는 곳", "relevant": [3057803], "difficulty": "hard", "target_title": "연산군묘"}
+{"id": "sem-019", "set": "semantic", "query": "모터 없이 사람이 페달 밟아 북촌 서촌 돌며 해설해주는 이륜 탈것 투어", "relevant": [2373420], "difficulty": "medium", "target_title": "아띠인력거"}
+{"id": "sem-020", "set": "semantic", "query": "프랑스 군함이 침입한 뒤 천주교인들을 처형한 한강변 언덕의 기념관", "relevant": [126528], "difficulty": "hard", "target_title": "절두산 순교성지"}
+{"id": "sem-021", "set": "semantic", "query": "노원구 명성황후 발원으로 바위에 새긴 13m 관음상 있는 암자", "relevant": [485684], "difficulty": "medium", "target_title": "학도암(서울)"}
+{"id": "sem-022", "set": "semantic", "query": "마포 난지연못 옆 서울에서 제일 넓은 풀밭 피크닉 장소", "relevant": [2759900], "difficulty": "medium", "target_title": "평화잔디광장"}
+{"id": "sem-023", "set": "semantic", "query": "계양구 계양산 해넘이와 아라뱃길 보이는 정자, 청동기 집터 유적 있는 곳", "relevant": [3061205], "difficulty": "medium", "target_title": "갈현체육공원"}
+{"id": "sem-024", "set": "semantic", "query": "인천 서구 공촌천 따라 무료 워터파크급 여름 물놀이장 있는 곳", "relevant": [2767598], "difficulty": "medium", "target_title": "늘푸른공원"}
+{"id": "sem-025", "set": "semantic", "query": "신도림역 위 3층 청년 작가 입주한 복합 예술 공간 구로구", "relevant": [2592089], "difficulty": "medium", "target_title": "문화철도959"}
+{"id": "sem-026", "set": "semantic", "query": "서재필이 주도한 단체가 토론회 열던 모화관 복원 건물", "relevant": [1828571], "difficulty": "hard", "target_title": "독립관"}
+{"id": "sem-027", "set": "semantic", "query": "잠원 한강공원 안 드라마 셀럽 파티 촬영지 전시 공간", "relevant": [2718257], "difficulty": "medium", "target_title": "서울웨이브아트센터"}
+{"id": "sem-028", "set": "semantic", "query": "광진구 건대입구 중국어 간판 가득한 중국 동포 식당가 양고기 골목", "relevant": [2401757], "difficulty": "medium", "target_title": "자양동 양꼬치거리 (중국음식문화거리)"}
+{"id": "sem-029", "set": "semantic", "query": "송도에서 미어캣 여우 스컹크 고슴도치 만지며 교감하는 체험", "relevant": [2782697], "difficulty": "medium", "target_title": "마리앤쥬"}
+{"id": "sem-030", "set": "semantic", "query": "마포 굴레방 근처 시장 안 모둠 부침개에 막걸리 한잔 하는 골목", "relevant": [749280], "difficulty": "medium", "target_title": "아현동 전골목"}
+{"id": "sem-031", "set": "semantic", "query": "정릉 신덕왕후 원찰로 무학대사가 약사불 모시며 시작된 성북구 절", "relevant": [316295], "difficulty": "medium", "target_title": "봉국사(서울)"}
+{"id": "sem-032", "set": "semantic", "query": "튀르키예 수도와 자매결연 기념해 만든 영등포 공원, 전통 가옥 전시관", "relevant": [331506], "difficulty": "medium", "target_title": "자매공원(앙카라공원)"}
+{"id": "sem-033", "set": "semantic", "query": "스님과 차 마시고 사찰음식 안내받는 산사 체험 정보 센터", "relevant": [1718910], "difficulty": "hard", "target_title": "템플스테이 홍보관"}
+{"id": "sem-034", "set": "semantic", "query": "동요 반달 만든 반달 할아버지가 살던 집 유품 전시", "relevant": [2777943], "difficulty": "hard", "target_title": "윤극영가옥"}
+{"id": "sem-035", "set": "semantic", "query": "광흥창역 근처 옛 우체국을 전시와 공연장으로 바꾼 곳, 금고가 남아있음", "relevant": [3082465], "difficulty": "medium", "target_title": "탈영역우정국"}
+{"id": "sem-036", "set": "semantic", "query": "방탄소년단 멤버들이 물레 돌려 컵 만든 서초동 공방 원데이 클래스", "relevant": [2946113], "difficulty": "medium", "target_title": "길상도예"}
+{"id": "sem-037", "set": "semantic", "query": "정릉동 보국문로 고려 1325년 창건, 문정왕후가 이름 바꾼 절", "relevant": [294505], "difficulty": "medium", "target_title": "경국사(서울)"}
+{"id": "sem-038", "set": "semantic", "query": "아라뱃길이 서해와 만나는 서구 나루터, 12월 31일 해넘이 행사 열리는 곳", "relevant": [2662684], "difficulty": "medium", "target_title": "정서진"}
+{"id": "sem-039", "set": "semantic", "query": "땅의 신과 곡식의 신에게 제사 올리던 태조 때 만든 단이 있는 곳", "relevant": [127942], "difficulty": "hard", "target_title": "사직공원(서울)"}
+{"id": "sem-040", "set": "semantic", "query": "합정동 당인리 발전소 쪽 인디밴드 공연 보며 타이식 튀김 닭 먹는 곳", "relevant": [2900390], "difficulty": "medium", "target_title": "무대륙"}
+{"id": "sem-041", "set": "semantic", "query": "제약회사 창업자 호를 딴 전시관, 세계 각국 종을 모티브로 한 체험", "relevant": [2453179], "difficulty": "hard", "target_title": "고촌홀(제약박물관)"}
+{"id": "sem-042", "set": "semantic", "query": "궁궐 안에서 700년 넘게 산 천연기념물, 용이 승천하는 모양이라는 나무", "relevant": [1605908], "difficulty": "hard", "target_title": "창덕궁 향나무"}
+{"id": "sem-043", "set": "semantic", "query": "서울로7017과 이어진 옛 역사 지붕 위 야경 보는 루프탑 쉼터", "relevant": [3399181], "difficulty": "medium", "target_title": "서울역 옥상정원(The Roof)"}
+{"id": "sem-044", "set": "semantic", "query": "강서구 도시 농장에서 과일 따고 불멍하는 8팀 예약제 캠핑장", "relevant": [3081993], "difficulty": "medium", "target_title": "플레이스콤마"}
+{"id": "sem-045", "set": "semantic", "query": "강남구에서 홍삼 오일로 받는 프리미엄 테라피 스파 추천해줘", "relevant": [2660731], "difficulty": "medium", "target_title": "SPA 1899 동인비"}
+{"id": "sem-046", "set": "semantic", "query": "6.25 때 은평구 녹번동에서 전사한 미 해군 대위를 기리는 비", "relevant": [1829586], "difficulty": "medium", "target_title": "윌리엄해밀턴쇼 동상"}
+{"id": "sem-047", "set": "semantic", "query": "동작구 공원 안에서 지진 태풍 화재를 가상으로 겪어보는 재난 시설", "relevant": [1091608], "difficulty": "medium", "target_title": "보라매안전체험관"}
+{"id": "sem-048", "set": "semantic", "query": "강동구 한강변 노을 보며 두 바퀴로 달리기 좋은 곳, 암사역 근처", "relevant": [3065938], "difficulty": "medium", "target_title": "광나루자전거공원"}
+{"id": "sem-049", "set": "semantic", "query": "경복궁 가장 안쪽, 한국에서 처음 전깃불을 켠 곳이 어디야?", "relevant": [1604652], "difficulty": "hard", "target_title": "건청궁"}
+{"id": "sem-050", "set": "semantic", "query": "인천 송림동에서 아이들이 횡단보도 건너는 법 배우고 모노레일 타는 곳", "relevant": [3061207], "difficulty": "medium", "target_title": "동구 어린이 교통공원"}
+{"id": "sem-051", "set": "semantic", "query": "계양산 가까운 계양구 생태공원, 연못과 작은 폭포 있고 무료 걷기 수업 열리는 곳", "relevant": [2766160], "difficulty": "medium", "target_title": "임학공원"}
+{"id": "sem-052", "set": "semantic", "query": "60년대부터 학교 앞 문방구 물건 도매가로 파는 독일약국 옆 골목", "relevant": [1187220], "difficulty": "hard", "target_title": "동대문 문구완구거리"}
+{"id": "sem-053", "set": "semantic", "query": "구로역 바로 앞 고무 전기자재 철강 파는 도매 상가 단지", "relevant": [2591803], "difficulty": "medium", "target_title": "구로기계공구단지"}
+{"id": "sem-054", "set": "semantic", "query": "남산 봉수대 옆에 1968년 세운 비, 글귀가 투사들의 심장에 빗댄 것으로 유명", "relevant": [2373326], "difficulty": "medium", "target_title": "반공 청년운동 순국 열사 기념비"}
+{"id": "sem-055", "set": "semantic", "query": "성북구 정릉 골짜기 1km 올라가면 나오는 삼각산 자락 절, 이끼 낀 석축", "relevant": [298341], "difficulty": "medium", "target_title": "내원사(서울)"}
+{"id": "sem-056", "set": "semantic", "query": "이태원 옆 남산 아래 외국인과 주민이 어울리는 개성 있는 카페 골목", "relevant": [2930839], "difficulty": "medium", "target_title": "경리단길"}
+{"id": "sem-057", "set": "semantic", "query": "종로구 1930년대 ㅁ자 도시형 한옥, 동양화가 살던 공공 문화공간", "relevant": [3045019], "difficulty": "medium", "target_title": "계동배렴가옥"}
+{"id": "sem-058", "set": "semantic", "query": "역대 대통령이 즐겨 걷던 관저 뒤 산책길, 대통령 부부 식수한 느티나무", "relevant": [2993177], "difficulty": "hard", "target_title": "백악정"}
+{"id": "sem-059", "set": "semantic", "query": "불암산과 도봉산 사이 638m 산, 철쭉 능선과 금류 은류 옥류 폭포", "relevant": [126483], "difficulty": "hard", "target_title": "수락산"}
+{"id": "sem-060", "set": "semantic", "query": "삼성동에서 피트니스 골프 와인클래스 러닝크루를 한곳에서 하는 복합 휴식 공간", "relevant": [2782132], "difficulty": "medium", "target_title": "클럽케이서울"}
+{"id": "sem-061", "set": "semantic", "query": "목동 양천문화회관 옆에서 가슴압박 심폐소생술과 연기 속 대피를 연습하는 곳", "relevant": [2611575], "difficulty": "medium", "target_title": "양천생활안전체험교육관"}
+{"id": "sem-062", "set": "semantic", "query": "한양도성 8개 성문 중 유일하게 반원 옹성이 있는 동쪽 큰 문", "relevant": [126514], "difficulty": "hard", "target_title": "흥인지문"}
+{"id": "sem-063", "set": "semantic", "query": "양천구 오목교 밑 버려진 둔치가 수변 쉼터로 변한 곳, 실개천 흐르고 장미 테마", "relevant": [3056724], "difficulty": "medium", "target_title": "안양천가족정원"}
+{"id": "sem-064", "set": "semantic", "query": "신촌 캠퍼스에서 배재학당 세운 선교사를 기려 1924년 지은 고딕풍 석조 건물", "relevant": [252534], "difficulty": "medium", "target_title": "서울 연세대학교 아펜젤러관"}
+{"id": "sem-065", "set": "semantic", "query": "계양구 물길 따라 2.5km 산책로, 차박 인기지만 취사 금지인 곳", "relevant": [2767474], "difficulty": "medium", "target_title": "경인아라뱃길 다남공원"}
+{"id": "sem-066", "set": "semantic", "query": "시청역 근처 영국인 설계 로마네스크에 한국 전통 요소 섞은 십자형 교회 건물", "relevant": [127015], "difficulty": "hard", "target_title": "대한성공회 서울주교좌성당"}
+{"id": "sem-067", "set": "semantic", "query": "반포 고속터미널 위 신세계 백화점 메리어트 영풍문고 들어선 복합 건물", "relevant": [1221790], "difficulty": "hard", "target_title": "센트럴시티"}
+{"id": "sem-068", "set": "semantic", "query": "양천구 도림천역 근처 무료 포토존, 여름엔 장미원 옆 물놀이장 여는 꽃밭", "relevant": [2612095], "difficulty": "medium", "target_title": "안양천 사계절 테마원"}
+{"id": "sem-069", "set": "semantic", "query": "성동구 성수동 조선 전기 가장 큰 돌 교량, 마름모꼴 돌기둥 64개", "relevant": [753989], "difficulty": "medium", "target_title": "서울 살곶이 다리"}
+{"id": "sem-070", "set": "semantic", "query": "관악산 자락 절, 1880년 명성황후가 법당 중건하고 어린이집도 운영", "relevant": [126918], "difficulty": "medium", "target_title": "약수사(서울)"}
+{"id": "sem-071", "set": "semantic", "query": "구로구에 하나뿐인 청동기시대 지석묘, 토성 안에 있고 올레길 코스", "relevant": [2591799], "difficulty": "medium", "target_title": "고척동 고인돌"}
+{"id": "sem-072", "set": "semantic", "query": "종로구 신문로 광해군 때 지은 궁궐 터, 흥화문 숭정전 있고 시립미술관 가까운 곳", "relevant": [1604824], "difficulty": "medium", "target_title": "경희궁공원"}
+{"id": "sem-073", "set": "semantic", "query": "광진구 아이들 과학관 있고 겨울엔 눈썰매장 열며 실내 놀이터 무료인 복지 시설", "relevant": [2743740], "difficulty": "medium", "target_title": "육영재단 어린이회관"}
+{"id": "sem-074", "set": "semantic", "query": "광진구 능동 순종 첫 황후 묘소였던 터에 남은 문인석 석등 말 호랑이 조각", "relevant": [753964], "difficulty": "medium", "target_title": "순명비 유강원 석물"}
+{"id": "sem-075", "set": "semantic", "query": "송파구 강변 남단 수중보 물고기길이 있고 롯데월드 옆 소풍 자연학습장", "relevant": [970460], "difficulty": "medium", "target_title": "잠실한강공원"}
+{"id": "sem-076", "set": "semantic", "query": "송도 아암호수 물줄기 따라 가을 해바라기 피고 테니스장 17면 있는 생태 휴식지", "relevant": [2767888], "difficulty": "medium", "target_title": "달빛축제공원"}
+{"id": "sem-077", "set": "semantic", "query": "창덕궁 근처 구자경 회장 사저 기증으로 연 디지털 과학논문 열람 공간", "relevant": [2993472], "difficulty": "medium", "target_title": "LG상남도서관"}
+{"id": "sem-078", "set": "semantic", "query": "광주 북구 무등산 옛길 2구간 입구, 제4수원지 앞 소풍 동산과 김삿갓 표지석", "relevant": [742535], "difficulty": "medium", "target_title": "청풍쉼터"}
+{"id": "sem-079", "set": "semantic", "query": "서래마을 옆 옛 군부대 터를 2019년 연 산책로, 누에다리 건너 몽마르트르까지", "relevant": [2773409], "difficulty": "medium", "target_title": "서리풀공원"}
+{"id": "sem-080", "set": "semantic", "query": "월산대군 집이었다가 임진왜란 뒤 행궁이 되고 고종이 아관파천 후 돌아온 궁궐", "relevant": [126509], "difficulty": "hard", "target_title": "덕수궁"}
+{"id": "sem-081", "set": "semantic", "query": "경복궁 창덕궁 종묘 사이 전통 가옥이 모여 있는 도심 속 거리 박물관", "relevant": [126537], "difficulty": "hard", "target_title": "북촌한옥마을"}
+{"id": "sem-082", "set": "semantic", "query": "옹진 선재도에서 썰물 때 모랫길로 걸어가는 작은 무인도", "relevant": [2768083], "difficulty": "medium", "target_title": "목섬"}
+{"id": "sem-083", "set": "semantic", "query": "마포구 지하 공연 보고 LP 신청해서 듣는 9층 루프탑 건물", "relevant": [3083146], "difficulty": "medium", "target_title": "ㅎㄷcafe (홍대카페)"}
+{"id": "sem-084", "set": "semantic", "query": "강화도 저어새 산책로 있고 갯벌 체험하는 소나무 숲 바닷가", "relevant": [127291], "difficulty": "medium", "target_title": "강화 동막해변"}
+{"id": "sem-085", "set": "semantic", "query": "금천구 시흥동에서 전국노래자랑 녹화하는 쉼터", "relevant": [2756120], "difficulty": "medium", "target_title": "금빛공원"}
+{"id": "sem-086", "set": "semantic", "query": "기둥 8개가 팔도를 뜻하는 녹색 돔 건물 견학 예약", "relevant": [126827], "difficulty": "hard", "target_title": "국회의사당"}
+{"id": "sem-087", "set": "semantic", "query": "서대문 신라 때 진표율사가 세운 절 정종이 머물렀던 곳", "relevant": [128028, 309307], "difficulty": "medium", "target_title": "백련사(서울)"}
+{"id": "sem-088", "set": "semantic", "query": "한강 다리 아래 교각 하부 전망대에서 재즈 공연 보는 곳", "relevant": [1366921], "difficulty": "hard", "target_title": "광진교 8번가"}
+{"id": "sem-089", "set": "semantic", "query": "6.25 초기 미군 최고 지휘관이 맥주공장 옆 언덕에서 전황 살핀 자리", "relevant": [2373320], "difficulty": "hard", "target_title": "맥아더 사령관 한강방어선 시찰지"}
+{"id": "sem-090", "set": "semantic", "query": "노원구 상계동 쪽 508m 바위 정상 철쭉 피는 서울 경계 산", "relevant": [126482], "difficulty": "medium", "target_title": "불암산"}
+{"id": "sem-091", "set": "semantic", "query": "굴포천과 아라뱃길 만나는 곳에서 망원경으로 철새 보는 습지", "relevant": [3457335], "difficulty": "hard", "target_title": "두리생태공원"}
+{"id": "sem-092", "set": "semantic", "query": "은평구 응암동에서 성산동까지 9km 이어지는 하천 산책로 분수쇼", "relevant": [3385992], "difficulty": "medium", "target_title": "불광천"}
+{"id": "sem-093", "set": "semantic", "query": "용산구 외국인 많고 패션 액세서리 가게 2천개 모인 1.4km 지구촌 같은 동네", "relevant": [132613], "difficulty": "medium", "target_title": "이태원 쇼핑거리"}
+{"id": "sem-094", "set": "semantic", "query": "강화읍 근대 방직공장 성공회 성당 소창 체험까지 걷는 코스", "relevant": [2684765], "difficulty": "medium", "target_title": "강화 원도심 스토리워크"}
+{"id": "sem-095", "set": "semantic", "query": "추사 현판 걸린 판전에 화엄경 경판 보관한 도심 천년 사찰", "relevant": [126504], "difficulty": "hard", "target_title": "봉은사(서울)"}
+{"id": "sem-096", "set": "semantic", "query": "종로 전통 문화 골목에 2019년 문 연 상가 위 호텔 지하 뮤지엄 복합건물", "relevant": [2666751], "difficulty": "medium", "target_title": "안녕인사동"}
+{"id": "sem-097", "set": "semantic", "query": "강화 조선 중기 지방 관아에서 아전이 일하던 ㄷ자 한옥", "relevant": [1615571], "difficulty": "medium", "target_title": "강화유수부이방청"}
+{"id": "sem-098", "set": "semantic", "query": "구름 모양 그늘막 있고 불꽃축제 열리는 강변 잔디밭", "relevant": [2760268], "difficulty": "hard", "target_title": "여의도한강공원 멀티프라자"}
+{"id": "sem-099", "set": "semantic", "query": "적군 막으려 성벽 밑에 가시 울타리처럼 심은 400년 된 천연기념물", "relevant": [1619788], "difficulty": "hard", "target_title": "강화 갑곶리 탱자나무"}
+{"id": "sem-100", "set": "semantic", "query": "공항 신도시 해넘이 보며 255m 산 정상에서 무료 망원경 쓰는 곳", "relevant": [2767621], "difficulty": "hard", "target_title": "백운산전망대"}
+{"id": "sem-101", "set": "semantic", "query": "계양역 바로 앞 철판아이스크림 와플 직접 만들어 보는 예약제 농장", "relevant": [2938541], "difficulty": "medium", "target_title": "고씨딸기체험농원"}
+{"id": "sem-102", "set": "semantic", "query": "강서구 마곡동 물가 관찰 데크와 계단에 앉아 텃새 구경하는 곳", "relevant": [2733983], "difficulty": "medium", "target_title": "서울식물원 호수공원"}
+{"id": "sem-103", "set": "semantic", "query": "강동구 정상에 새해 일출 보는 광장 있고 둔촌 이집 숨어 살던 토굴 있는 곳", "relevant": [127378], "difficulty": "medium", "target_title": "일자산자연공원"}
+{"id": "sem-104", "set": "semantic", "query": "중구 천주교 순교자 44명 성인 처형지에 만든 지하 기념관 있는 곳", "relevant": [1605977], "difficulty": "medium", "target_title": "서소문역사공원"}
+{"id": "sem-105", "set": "semantic", "query": "서초구 한강 인공섬 봄에 유채꽃 가을에 메밀꽃 피는 곳", "relevant": [753983], "difficulty": "medium", "target_title": "반포 서래섬"}
+{"id": "sem-106", "set": "semantic", "query": "만해 한용운 마지막 머문 집과 이태준 가옥 찻집 길상사 도는 길", "relevant": [3043900], "difficulty": "hard", "target_title": "성북동고택북촌산책길"}
+{"id": "sem-107", "set": "semantic", "query": "명동성당 바로 앞 견본주택이었다가 전시 공연 대관하는 3층 라이브홀", "relevant": [3070716], "difficulty": "medium", "target_title": "커뮤니티하우스마실"}
+{"id": "sem-108", "set": "semantic", "query": "영등포 유럽 나라 군의관 간호사 67명이 3년 넘게 23만명 치료한 기념 표석", "relevant": [1835206], "difficulty": "medium", "target_title": "이탈리아의무부대 6.25전쟁 참전기념비"}
+{"id": "sem-109", "set": "semantic", "query": "3.1운동 민족대표 33인 중 감리교 목사가 살던 집터", "relevant": [2373333], "difficulty": "hard", "target_title": "신석구 사택 터"}
+{"id": "sem-110", "set": "semantic", "query": "광주 무등산 가는 길 의병장 김덕령 모신 사당", "relevant": [126383], "difficulty": "medium", "target_title": "충장사"}
+{"id": "sem-111", "set": "semantic", "query": "종로 가회동 한옥에서 누룩 만들고 전통주 배우는 곳", "relevant": [3085314], "difficulty": "medium", "target_title": "북촌전통발효공방 빚담"}
+{"id": "sem-112", "set": "semantic", "query": "용산 김구 선생과 삼의사 유해 모신 독립운동가 묘역 사적", "relevant": [127643], "difficulty": "medium", "target_title": "서울 효창공원"}
+{"id": "sem-113", "set": "semantic", "query": "자운봉 만장봉 선인봉 암벽 있는 서울의 금강산이라 불리는 산", "relevant": [126481], "difficulty": "hard", "target_title": "도봉산"}
+{"id": "sem-114", "set": "semantic", "query": "송파 몽촌토성 오르는 길 돗자리 펴고 배달음식 먹는 잔디밭", "relevant": [2761797], "difficulty": "medium", "target_title": "올림픽공원피크닉장"}
+{"id": "sem-115", "set": "semantic", "query": "강북구 수유동 북한산 칼바위능선 골짜기 옛날 옷 씻던 곳 공초 묘", "relevant": [2773346], "difficulty": "medium", "target_title": "빨래골"}
+{"id": "sem-116", "set": "semantic", "query": "강동구 배재고 교정에 있는 초대 대통령 3m 조각상", "relevant": [1829744], "difficulty": "medium", "target_title": "우남 이승만박사 동상"}
+{"id": "sem-117", "set": "semantic", "query": "양천구 목동 방송국 근처 직장인 점심 산책 작은 미술관 있는 곳", "relevant": [2611735], "difficulty": "medium", "target_title": "오목공원"}
+{"id": "sem-118", "set": "semantic", "query": "관악구 사당초등학교 옆 7~8세기 토기 굽던 옛 가마 유적", "relevant": [126911], "difficulty": "medium", "target_title": "서울 남현동 요지"}
