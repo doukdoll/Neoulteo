@@ -65,10 +65,17 @@ def _normalize(v: str) -> str:
 class Embedder:
     """sentence-transformers 래퍼 + 코퍼스 임베딩 디스크 캐시."""
 
-    def __init__(self, model_name: str, device: str | None = None, query_prefix: str = "", doc_prefix: str = ""):
+    def __init__(self, model_name: str, device: str | None = None, query_prefix: str = "", doc_prefix: str = "",
+                 max_seq_length: int | None = None, fp16: bool = False):
         from sentence_transformers import SentenceTransformer
         self.model_name = model_name
-        self.model = SentenceTransformer(model_name, device=device)
+        kwargs = {}
+        if fp16:
+            import torch
+            kwargs["model_kwargs"] = {"torch_dtype": torch.float16}
+        self.model = SentenceTransformer(model_name, device=device, **kwargs)
+        if max_seq_length:
+            self.model.max_seq_length = max_seq_length
         self.query_prefix = query_prefix
         self.doc_prefix = doc_prefix
 
@@ -81,7 +88,7 @@ class Embedder:
                                  normalize_embeddings=True, show_progress_bar=True, convert_to_numpy=True)
         CACHE_DIR.mkdir(parents=True, exist_ok=True)
         np.save(path, vecs.astype(np.float32))
-        return vecs
+        return vecs.astype(np.float32)
 
     def encode_query(self, q: str) -> np.ndarray:
         return self.model.encode(self.query_prefix + q, normalize_embeddings=True, convert_to_numpy=True)

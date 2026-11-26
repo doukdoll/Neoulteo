@@ -1,4 +1,4 @@
-"""난이도/분류별 세부 지표: semantic(medium/hard), name_lookup(exact/spacing), region_category(content_type)."""
+"""난이도/분류별 세부 지표: semantic(medium/hard), name_lookup(exact/spacing), region_category(content_type), rc_holdout(plain/modified)."""
 import json, sys
 from collections import defaultdict
 sys.path.insert(0, ".")
@@ -8,7 +8,7 @@ from neoulteo_rag.metrics import score
 docs = load_jsonl(ROOT / "data/corpus.jsonl")
 rets = build_retrievers(sys.argv[1:] or ["spring-lexical", "spring-hybrid"], docs)
 plan = [("semantic", "difficulty", "hit@5"), ("name_lookup", "difficulty", "hit@5"),
-        ("region_category", "content_type_id", "p@5")]
+        ("region_category", "content_type_id", "p@5"), ("rc_holdout", "difficulty", "p@5")]
 for r in rets:
     for s, key, m in plan:
         g = defaultdict(list)

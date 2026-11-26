@@ -32,6 +32,7 @@ SET_METRICS = {
     "semantic": ["hit@1", "hit@5", "hit@10", "mrr@10", "ndcg@10"],
     "name_lookup": ["hit@1", "hit@5", "mrr@10"],
     "region_category": ["p@5", "p@10", "hit@5"],
+    "rc_holdout": ["p@5", "p@10", "hit@5"],  # region_category와 같은 방식, 다른 표현/지역 (scripts/build_holdout_rc.py)
 }
 
 
