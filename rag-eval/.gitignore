@@ -1,0 +1,4 @@
+.venv/
+data/corpus.jsonl
+data/cache/
+data/eval_build/batch_*.jsonl
